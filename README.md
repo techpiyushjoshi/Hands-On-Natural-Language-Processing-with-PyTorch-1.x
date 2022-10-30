@@ -10,7 +10,7 @@ This is the code repository for [Hands-On Natural Language Processing with PyTor
 Developers working with NLP will be able to put their knowledge to work with this practical guide to PyTorch. You will learn to use PyTorch offerings and how to understand and analyze text using Python. You will learn to extract the underlying meaning in the text using deep neural networks and modern deep learning algorithms.
 
 This book covers the following exciting features: 
-* Use NLP techniques for understanding, processing, and generating text
+* Use NLP technique for understanding, processing, and generating text
 * Understand PyTorch, its applications and how it can be used to build deep linguistic models
 * Explore the wide variety of deep learning architectures for NLP
 * Develop the skills you need to process and represent both structured and unstructured NLP data
